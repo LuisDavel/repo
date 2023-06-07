@@ -1,0 +1,4 @@
+{
+  "extends" : "@iforth-ui/ts-config/base.json",
+  "include": ["src"],
+}

@@ -1,0 +1,10 @@
+{
+  "name": "@iforth-ui/eslint-config",
+  "license": "MIT",
+  "private": true,
+  "main": "index.js",
+  "version": "1.0.0",
+  "devDependencies": {
+    "eslint": "^8.42.0"
+  }
+}
